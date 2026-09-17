@@ -1,0 +1,6 @@
+{
+  "name": "納豆まぜまぜ - ネバネバ糸引きゲーム",
+  "description": "スマホで納豆をお箸でかき混ぜてネバネバさせるゲーム。タップで混ぜるほど糸がどこまでも長く伸びる！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
